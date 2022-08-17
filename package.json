@@ -1,0 +1,23 @@
+{
+  "name": "type-bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioPortela/type-bank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcioPortela/type-bank/issues"
+  },
+  "homepage": "https://github.com/MarcioPortela/type-bank#readme",
+  "dependencies": {
+    "typescript": "3.2"
+  }
+}
